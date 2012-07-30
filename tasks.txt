@@ -1,0 +1,9 @@
+Configuration (dialog):
+* Follow symlinks
+* Global directories
+* Include open file
+
+Implementation:
+* Asynchronous scanning directory
+* Filter by directories
+* Negative filtering
